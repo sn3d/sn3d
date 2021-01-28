@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://unravela.com">
-    <img src="https://unravela.com/images/logo_horizontal_white_400px.svg">
-  </a>
-</p>
+Hey, I'm Zdenko. I'm just an engineer who is constantly jumping between infrastructures and code. I don't know if I'm SWE or SRE, but I like computers for sure :) I'm currently working for kiwi.com as a platform engineer. In my spare time, I'm blogging for our local tech community in Kosice.
