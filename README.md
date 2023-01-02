@@ -8,9 +8,9 @@ I have passion for **container internals**, for runtime, for distribution and ne
 
 I'm big believer in **platform as a product** idea as next step in DevOps evolution. I believe we need more product thinking in infrastructure platform domain. This leads me to self-study of a product design. Yes, I'm big fan of Marty Cagan. CLI tools are awesome products :)
 
-I'm also **open to new opportunities** in container world. I would like to uplift my passion for container internals from hobby to full-time job. Not to be just regular user (SRE or DevOps eng.) of containers but also participate on creation. I'm not looking for generic DevOps position same as I'm not looking for Java position.
+I'm also **open to new opportunities** in container/kubernetes world. I would like to uplift my passion of container internals from hobby to full-time job. Not to be just regular user (SRE or DevOps eng.) of containers but also participate on creation. I'm not looking for generic DevOps position same as I'm not looking for Java position.
 
-My CV is available [here]()
+My CV is available [here](https://github.com/sn3d/sn3d/raw/master/cv.pdf)
 
 &nbsp;&nbsp;
 
