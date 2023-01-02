@@ -1,5 +1,7 @@
 ![banner](banner.png)
 
-Hey, I'm Zdenko. I'm just an engineer who is constantly jumping between infrastructures and code. I don't know if I'm SWE or SRE, but I like building tools for other engineers. I'm currently working as an platform engineer for [kiwi.com](https://kiwi.com). 
+Hey, I'm Zdenko. I'm just an engineer who is constantly jumping between infrastructures and code. I like to be in both boots - SWE and SRE. But what I like most? It's building small CLI tools for other engineers.
 
-In my spare time, I'm blogging for our local tech community in Kosice.
+I have passion for containers internals.
+
+In my spare time, I'm [blogging] (okontajneroch.sk) and speaking about containers on meetups for our local tech community in Kosice.
