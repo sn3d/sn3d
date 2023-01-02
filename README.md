@@ -16,10 +16,10 @@ My CV is available [here]()
 
 <p align="center">  
   <a href="https://twitter.com/sn3d">
-    <img alt="Zdenko's Twitter" width="25px" src="https://simpleicons.now.sh/twitter/495f7e" />
+    <img alt="Zdenko's Twitter" width="35px" src="https://simpleicons.now.sh/twitter/495f7e" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/zdenkovrabel">
-    <img alt="Zdenko's LinkedIn" width="25px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+    <img alt="Zdenko's LinkedIn" width="35px" src="https://simpleicons.now.sh/linkedin/495f7e" />
   </a>
 </p>
