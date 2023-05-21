@@ -2,13 +2,26 @@
 
 ## 🚀 Hi, I'm Zdenko Vrabel, a Developer from Slovakia.
 
-I'm ordinary engineer who is constantly jumping between **code** and **infrastructures**. I like to be in both boots - SWE and SRE. But what I like most? It's building small CLI tools for other engineers. Most of my life I spent as programmer - with touching the code. But also I was always very close to infrastructures. After years of **C/C++** and **Java** I jumped into **Go** lang bandwagon. And I'm more than happy with this language.
+I'm ordinary engineer who is constantly jumping between **code** and **infrastructures**. 
+I like to be in both boots - SWE and SRE. Most of my life I spent as programmer - with touching the code. 
+But also I was always very close to infrastructures. After years 
+of **C/C++** and **Java** I jumped into **Go** lang bandwagon. And I'm more 
+than happy with this language.
 
-I have passion for **container internals**, for runtime, for distribution and networking of containers. In my spare time, I'm **blogging** on (https://okontajneroch.sk) and speaking about containers on meetups for our local tech community in Kosice. Also I'm posting technical content on LinkedIn, and trying to make LI more interesting place for tech people.
+I have passion for container internals, for Kubernetes and networking of 
+containers. In my spare time, I'm **blogging** on (https://okontajneroch.sk) 
+and speaking about containers on meetups for our local tech community in Kosice. 
+Also I'm spamming technical content on LinkedIn, and trying to make LI more 
+interesting place for tech people.
 
-I'm big believer in **platform as a product** idea as next step in DevOps evolution. I believe we need more product thinking in infrastructure platform domain. This leads me to self-study of a product design. Yes, I'm big fan of Marty Cagan. CLI tools are awesome products :)
+I'm big believer in **platform as a product** idea as next step in DevOps 
+evolution. I believe we need more product thinking in infrastructure platform
+domain. This leads me to self-study of a product design. Yes, I'm big fan of
+Marty Cagan.
 
-I'm also **open to new opportunities** in container/kubernetes world. I would like to uplift my passion of container internals from hobby to full-time job. Not to be just regular user (SRE or DevOps eng.) of containers but also participate on creation. I'm not looking for generic DevOps position same as I'm not looking for Java position.
+I'm also **open to new opportunities** in Go development or in container/Kubernetes 
+world. I would like to uplift my passion of containers internals from hobby to 
+full-time job.
 
 My CV is available [here](https://github.com/sn3d/sn3d/raw/master/cv.pdf)
 
