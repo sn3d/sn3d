@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-## 🚀 Hi, I'm Zdenko Vrabel, an engineer from Slovakia.
+## 🚀 Hi, I'm Zdenko Vrabel, a platform/sw engineer and consultant from Slovakia.
 
 I'm ordinary engineer who is constantly jumping between **code** and **infrastructures**. 
 I like to be in both boots - SWE and SRE. Most of my life I spent as programmer - with touching the code. 
